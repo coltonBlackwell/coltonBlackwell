@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning code
-- ⚡ Fun fact: created a program over 600 lines
+- I'm a first year Computer Science student at Simon Fraser University
+- I know the basics of programming languages such as Python, Java, Javascript, and HTML
