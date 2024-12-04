@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 - 🏫 I'm a fourth-year Computer Science student at Simon Fraser University
-- 💻 I know the basics of programming languages such as Python, Java, Javascript, and HTML
+- 💻 I have experience in several programming languages such as Python, Java, Javascript, and HTML
 
 ## About Me
 
