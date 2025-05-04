@@ -13,13 +13,20 @@
 
 <!-- markdownlint-enable MD033 -->
 
-## About Me
-- 🏫 I'm a new grad with a BSc in Computing Science from Simon Fraser University.
-- 💻 I have experience in several programming languages such as Python, Javascript, and Java.
+## 👦 About Me
+I'm a new grad with a BSc in Computing Science from Simon Fraser University with a specialization in information systems. Throughout my journey in undergrad I grew a great appreciation towards data science. This led to me thriving in machine learning topics such as: 
+- 🧠 **Machine Learning & AI**: PyTorch, scikit-learn, Detectron2; CNNs, transfer learning, object detection, model evaluation
+- 💻 **Full Stack Development**: Flask, JavaScript, Leaflet.js, Folium; REST APIs, interactive web apps, modular design
+- 📊 **Data Science**: Jupyter, Pandas, Matplotlib; EDA, regression, clustering, time-series analysis  
 
-My programming journey began in Vancouver during high school, where I delved into the basics of JavaScript and Java. These initial courses ignited my passion for programming, leading me to pursue a Bachelor of Science at SFU. My interests include weightlifting, Chess, and Music.
+## 🛠️ Highlighted Projects
 
-
-During my university journey, I've acquired extensive data structures and algorithms knowledge and honed my interpersonal skills through my involvement with UNICEF SFU. From foundational Python programming in CMPT 125 to delving into advanced cluster analysis in CMPT 459, I've significantly expanded my understanding and appreciation for computer programming. I aspire to pursue a career in data science in the future.
-
+#### 📖 GenAI Interactive Kids Book
+ <!-- - TODO -->
+#### 🔥 BC Wildfire Acre Forecaster
+ <!-- - TODO -->
+#### 🧪 Covid-19 Prognosis Predictor
+ <!-- - TODO -->
+## 🚀 Tech Stack
+ <!-- - TODO -->
 Personal Portfolio: [https://coltonblackwell.github.io/index.html]
