@@ -12,13 +12,13 @@ I'm a new grad with a BSc in Computing Science from Simon Fraser University with
 - 💻 **Full Stack Development**: Flask, JavaScript, Leaflet.js, Folium; REST APIs, interactive web apps, modular design
 - 📊 **Data Science**: Jupyter, Pandas, Matplotlib; EDA, regression, clustering, time-series analysis  
 
-## 🛠️ Highlighted Projects
+ <!--## 🛠️ Highlighted Projects -->
 
-#### 📖 GenAI Interactive Kids Book
+<!-- #### 📖 GenAI Interactive Kids Book -->
  <!-- - TODO -->
-#### 🔥 BC Wildfire Acre Forecaster
+<!--#### 🔥 BC Wildfire Acre Forecaster -->
  <!-- - TODO -->
-#### 🧪 Covid-19 Prognosis Predictor
+<!--#### 🧪 Covid-19 Prognosis Predictor -->
  <!-- - TODO -->
 ## 🚀 Tech Stack
 
