@@ -4,13 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F79100&center=true&width=435&lines=AI%2FML+Developer;Fullstack+Engineer;Tech+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<div align="center" dir="auto">
-  <img src="https://img.shields.io/badge/AI%2FML-Developer-blue?style=for-the-badge" alt="AI/ML Developer" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Full%20Stack-Engineer-orange?style=for-the-badge&logo=stackblitz" alt="Full Stack Engineer" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Backend-Flask-009688?style=for-the-badge&logo=flask" alt="Backend: Flask">
-  <img src="https://img.shields.io/badge/B.Sc-Simon%20Fraser%20University-%23C8102E?style=for-the-badge&logo=academia" alt="BSc in Computing Science – SFU">
-</div>
-
 <!-- markdownlint-enable MD033 -->
 
 ## 👦 About Me
@@ -29,7 +22,11 @@ I'm a new grad with a BSc in Computing Science from Simon Fraser University with
  <!-- - TODO -->
 ## 🚀 Tech Stack
 
-<p align="center">
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coltonBlackwell&layout=compact" alt="Top Langs" />
+</p>
+
+<p align="center"> 
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
@@ -47,4 +44,11 @@ I'm a new grad with a BSc in Computing Science from Simon Fraser University with
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
-Personal Portfolio: [https://coltonblackwell.github.io/index.html]
+😄 Pronouns: he/him \
+🏢 Work: Looking! \
+🏫 School: BSc. Computer Science @ SFU
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/colton-blackwell/)! \
+🧑‍💻 Check out my [Portfolio](https://coltonblackwell.github.io/index.html)!
+
+Some of my favourite projects I've made are down below. Feel free to fork or use any of my code!
