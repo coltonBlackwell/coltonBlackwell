@@ -22,8 +22,10 @@ I'm a new grad with a BSc in Computing Science from Simon Fraser University with
  <!-- - TODO -->
 ## 🚀 Tech Stack
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coltonBlackwell&layout=compact" alt="Top Langs" />
+<p align="center">
+  <a href=".">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coltonBlackwell&layout=compact" alt="Top Langs" />
+  </a>
 </p>
 
 <p align="center"> 
