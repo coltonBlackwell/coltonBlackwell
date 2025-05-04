@@ -1,5 +1,3 @@
-### Welcome! 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=F79442&center=true&width=435&lines=Hi%2C+My+Name+is+Colton+%F0%9F%91%8B;AI%2FML+Developer;Fullstack+Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 - 🏫 I'm a new grad with a BSc in Computing Science from Simon Fraser University.
