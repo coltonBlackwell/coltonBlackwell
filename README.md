@@ -7,7 +7,7 @@
 <!-- markdownlint-enable MD033 -->
 
 ## 👦 About Me
-I'm a new grad with a BSc in Computing Science from Simon Fraser University with a specialization in information systems. Throughout my journey in undergrad I grew a great appreciation towards data science. This led to me thriving in machine learning topics such as: 
+I'm a new grad with a BSc in Computing Science from Simon Fraser University with a specialization in information systems. Throughout my journey in undergrad I grew a great appreciation towards data science. This led to me extensively studying topics relating to: 
 - 🧠 **Machine Learning & AI**: PyTorch, scikit-learn, Detectron2; CNNs, transfer learning, object detection, model evaluation
 - 💻 **Full Stack Development**: Flask, JavaScript, Leaflet.js, Folium; REST APIs, interactive web apps, modular design
 - 📊 **Data Science**: Jupyter, Pandas, Matplotlib; EDA, regression, clustering, time-series analysis  
