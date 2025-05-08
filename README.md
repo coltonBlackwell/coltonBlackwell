@@ -52,5 +52,6 @@ I'm a new grad with a BSc in Computing Science from Simon Fraser University with
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/colton-blackwell/)! \
 🧑‍💻 Check out my [Portfolio](https://coltonblackwell.github.io/index.html)!
+📄 Take a look at my [Resume](https://coltonblackwell.github.io/Resume.pdf)!
 
 Some of my favourite projects I've made are down below. Feel free to fork or use any of my code!
