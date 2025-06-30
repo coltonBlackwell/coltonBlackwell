@@ -7,10 +7,13 @@
 <!-- markdownlint-enable MD033 -->
 
 ## 👦 About Me
-I'm a new Computer Science grad with a BSc in the Faculty of Applied Science from Simon Fraser University, with a specialization in Information Systems. Throughout my journey in undergrad, I grew an increasingly greater appreciation towards data science. This led me to extensively study topics relating to: 
+I'm a recent Computer Science grad with a BSc in the Faculty of Applied Science from Simon Fraser University, with a specialization in Information Systems. Throughout my undergraduate journey, I developed a strong appreciation for data science and intelligent systems. This curiosity evolved into hands-on experience across the stack—combining machine learning, full-stack development, and interactive data-driven applications. I’ve since built and contributed to projects that blend user-centered design with real-world data challenges.
+
 - 🧠 **Machine Learning & AI**: PyTorch, scikit-learn, Detectron2; CNNs, transfer learning, object detection, model evaluation
-- 💻 **Full Stack Development**: Flask, JavaScript, Leaflet.js, Folium; REST APIs, interactive web apps, modular design
-- 📊 **Data Science**: Jupyter, Pandas, Matplotlib; EDA, regression, clustering, time-series analysis  
+- 📊 **Data Science**: Jupyter, Pandas, Matplotlib; EDA, regression, clustering, time-series analysis
+- 🛠️ **Web & App Development**: React Native, JavaScript, Node.js, Express, Flask; developed full-stack applications with authentication, REST APIs, and responsive UIs
+- 🗄️ **Databases & Back-End Systems**: MySQL, MongoDB, Firebase; designed and integrated databases for user authentication, real-time updates, and data storage
+
 
  <!--## 🛠️ Highlighted Projects -->
 
